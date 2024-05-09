@@ -1,5 +1,5 @@
 {
-  "name": "LI/directory_manager",
+  "name": "@Fox-Demo/directory_manager",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
     "cli",
     "npmtool"
   ],
-  "author": "Lio",
+  "author": "Fox-Demo",
   "repository": "https://github.com/Fox-Demo/cli-demo",
   "homepage": "https://github.com/Fox-Demo/cli-demo#readme",
   "license": "ISC",
